@@ -1,6 +1,6 @@
 <?php   // partie Contrôleur du blog
 
-//The Game.
+//The Game...
 require 'modele.php';
 /*Je mange des peanut*/
 try {
