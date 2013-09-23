@@ -1,5 +1,6 @@
 <?php   // partie Contrôleur du blog
 
+//The Game
 require 'modele.php';
 
 try {
