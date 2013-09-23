@@ -1,7 +1,7 @@
 <?php   // partie Contrôleur du blog
 
 require 'modele.php';
-
+/*Je mange des peanut*/
 try {
     $billets = getBillets();        // Utilisation des services du modèle
     require 'listeBillets.php';     // Génération de la vue associée
